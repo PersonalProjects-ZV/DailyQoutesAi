@@ -9,5 +9,16 @@
     "antonym": "Clumsy, Sluggish, Rigid",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 2,
+    "date": "2026-04-03",
+    "word": "Perspicacious",
+    "meaning": "Having a keen understanding and insight; able to notice and understand things that are not immediately apparent",
+    "sentence": "The perspicacious journalist was able to uncover the hidden truth behind the company's financial reports",
+    "synonym": "Astute, Perceptive, Discerning",
+    "antonym": "Oblivious, Unaware, Ignorant",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
