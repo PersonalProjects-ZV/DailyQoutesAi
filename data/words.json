@@ -20,5 +20,16 @@
     "antonym": "Oblivious, Unaware, Ignorant",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 3,
+    "date": "2026-04-04",
+    "word": "Ennui",
+    "meaning": "A feeling of listlessness and boredom",
+    "sentence": "After a few months of doing the same job, he started to feel ennui and was looking for a change",
+    "synonym": "Apathy, Lethargy, Malaise",
+    "antonym": "Enthusiasm, Excitement, Energetic",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
