@@ -42,5 +42,16 @@
     "antonym": "rigid, inflexible, unyielding",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 5,
+    "date": "2026-04-05",
+    "word": "Fastidious",
+    "meaning": "Having a strong attention to detail and being very careful",
+    "sentence": "The editor was fastidious and made sure to check every page for errors before publication",
+    "synonym": "Meticulous, Conscientious, Scrupulous",
+    "antonym": "Careless, Negligent, Sloppy",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
