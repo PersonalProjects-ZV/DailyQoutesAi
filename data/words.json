@@ -97,5 +97,16 @@
     "antonym": "Beneficial, Helpful, Advantageous",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 10,
+    "date": "2026-04-08",
+    "word": "Ephemeral",
+    "meaning": "Lasting for a very short time",
+    "sentence": "The firefly's glow was ephemeral, lasting only for a few seconds",
+    "synonym": "Transient, Fleeting, Temporary",
+    "antonym": "Permanent, Enduring, Lasting",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
