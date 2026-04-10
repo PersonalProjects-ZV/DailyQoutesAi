@@ -119,5 +119,16 @@
     "antonym": "Silence, Harmony, Melody",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 12,
+    "date": "2026-04-10",
+    "word": "Inscrutable",
+    "meaning": "Difficult to understand or interpret",
+    "sentence": "The professor's inscrutable expression made it hard to determine if she was satisfied with the presentation",
+    "synonym": "Mysterious, Obscure, Ambiguous",
+    "antonym": "Clear, Transparent, Straightforward",
+    "category": "Adjective",
+    "difficulty": "Advanced"
   }
 ]
