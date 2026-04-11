@@ -130,5 +130,16 @@
     "antonym": "Clear, Transparent, Straightforward",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 13,
+    "date": "2026-04-11",
+    "word": "Meritorious",
+    "meaning": "Deserving praise or reward",
+    "sentence": "The team's meritorious effort to complete the project on time was recognized by the company's CEO",
+    "synonym": "Deserving, Commendable, Laudable",
+    "antonym": "Undeserving, Unworthy, Unmerited",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
