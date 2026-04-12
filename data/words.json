@@ -141,5 +141,16 @@
     "antonym": "Undeserving, Unworthy, Unmerited",
     "category": "Adjective",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 14,
+    "date": "2026-04-12",
+    "word": "Vigilant",
+    "meaning": "Watchful and attentive to potential problems or dangers",
+    "sentence": "The security guard was vigilant and quickly noticed the suspicious activity",
+    "synonym": "Alert, Attentive, Observant",
+    "antonym": "Careless, Negligent, Oblivious",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
