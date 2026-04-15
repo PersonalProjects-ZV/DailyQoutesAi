@@ -185,5 +185,16 @@
     "antonym": "obstacle, hindrance, inhibitor",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 18,
+    "date": "2026-04-15",
+    "word": "Nuance",
+    "meaning": "A subtle difference or shade of meaning",
+    "sentence": "The professor helped her students understand the nuances of the complex literary novel",
+    "synonym": "subtlety, intricacy, complexity",
+    "antonym": "obviousness, clarity, simplicity",
+    "category": "Noun",
+    "difficulty": "Intermediate"
   }
 ]
