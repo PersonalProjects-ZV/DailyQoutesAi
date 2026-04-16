@@ -196,5 +196,16 @@
     "antonym": "obviousness, clarity, simplicity",
     "category": "Noun",
     "difficulty": "Intermediate"
+  },
+  {
+    "id": 19,
+    "date": "2026-04-16",
+    "word": "Facilitate",
+    "meaning": "To make something easier or less difficult",
+    "sentence": "The new software aims to facilitate communication between teams",
+    "synonym": "Simplify, Ease, Streamline",
+    "antonym": "Hinder, Obstruct, Complicate",
+    "category": "Verb",
+    "difficulty": "Intermediate"
   }
 ]
