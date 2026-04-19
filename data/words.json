@@ -229,5 +229,16 @@
     "antonym": "Naive, Impulsive, Foolish",
     "category": "Adjective",
     "difficulty": "Advanced"
+  },
+  {
+    "id": 22,
+    "date": "2026-04-19",
+    "word": "Heterogeneous",
+    "meaning": "Composed of different kinds of things",
+    "sentence": "The city's population is heterogeneous, with people from various cultural backgrounds living together",
+    "synonym": "Diverse, Varied, Mixed",
+    "antonym": "Homogeneous, Uniform, Consistent",
+    "category": "Adjective",
+    "difficulty": "Intermediate"
   }
 ]
